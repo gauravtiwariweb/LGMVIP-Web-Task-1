@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(182, 169, 255);
+    font-family: 'Cardo', serif;
+
+ }
+ .container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: #9c6adf;
+    margin-left: 33%;
+    margin-top: 5px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+ }
+ input{
+    border-radius: 10px;
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(190, 152, 226);
+    outline: none;
+    font-size: 19px;
+
+
+ }
+ button{
+    width: 60px;
+    height: 41px;
+    background-color: rgb(222, 182, 255);
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+ }
+ .text ul{
+    position: relative;
+    background-color: rgb(178, 89, 236);
+    color: rgb(14, 13, 13);
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+    border-radius: 18px;
+    
+      border: 1px solid;
+  padding: 10px;
+  box-shadow: 2px 5px;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
